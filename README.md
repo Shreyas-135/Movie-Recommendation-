@@ -33,7 +33,7 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repo
     sh 
-    gh repo clone git clone https://github.com/Shreyas/Movie-recommendation-system.git
+    gh repo clone git clone https://github.com/Shreyas-135/Movie-recommendation-system.git
     cd Movie-recommendation-system
 
 2. Install Python packages
@@ -59,4 +59,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-6. 
