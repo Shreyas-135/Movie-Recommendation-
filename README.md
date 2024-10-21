@@ -33,8 +33,8 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repo
     sh 
-    gh repo clone git clone https://github.com/Shreyas-135/Movie-recommendation-system.git
-    cd Movie-recommendation-system
+    gh repo clone git clone https://github.com/Shreyas-135/Movie_Recommendation-system.git
+    cd Movie_Recommendation-system
 
 2. Install Python packages
     sh
